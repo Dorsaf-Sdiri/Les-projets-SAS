@@ -1,0 +1,55 @@
+Country;Language;Region;RegionId;Population;  white bread  ; Milk ;Internet_Users;Phone lines per 1000 Person;Date
+Seychelles;English;Eastern Africa;SC;91208; $0.91 ; $1.17 ;37395.28;147.6022404;21/12/2001
+Sao Tome and Principe;Portuguese;Middle Africa;ST;178228; $0.56 ; $1.40 ;33417.75;14.0304768;19/12/2001
+Cape Verde;Portuguese;Western Africa;CV;487601; $0.60 ; $1.48 ;146280.3;9.0778459;17/11/2001
+Comoros;Arabic;Eastern Africa;KM;683081; $0.37 ; $1.61 ;34837.131;30.7972261;20/11/2001
+Equatorial Guinea;Spanish;Middle Africa;GQ;696167; $0.99 ; $2.22 ;41770.02;9.3071499;16/08/2008
+Djibouti;French;Eastern Africa;DJ;834036; $0.29 ; $1.72 ;54212.34;9.4461763;14/08/2008
+Swaziland;English;Southern Africa;SZ;1193148; $0.76 ; $1.02 ;131723.5392;1.4669062;27/12/2001
+Mauritius;English;Eastern Africa;MU;1230659; $0.91 ; $1.44 ;348645.6947;10.1312841;16/01/2011
+Gabon;French;Middle Africa;GA;1556222; $0.98 ; $2.52 ;112514.8506;10.3775638;19/08/2008
+Guinea-Bissau;Portuguese;Western Africa;GW;1586624; $0.47 ; $1.16 ;38872.288;78.8588402;01/12/2001
+Gambia;English;Western Africa;GM;1680640; $0.27 ; $1.20 ;154618.88;15.2862103;20/08/2008
+Botswana;Other;Southern Africa;BW;1969341; $0.37 ; $1.40 ;118160.46;0.6751763;13/11/2001
+Lesotho;Other;Southern Africa;LS;2008921; $0.53 ; $1.09 ;77544.3506;19.8292246;09/01/2011
+Namibia;English;Southern Africa;NA;2178967; $0.71 ; $1.49 ;252760.172;72.0814037;14/12/2001
+Mauritania;Arabic;Western Africa;MR;3609420; $0.34 ; $1.93 ;144376.8;6.739476;15/01/2011
+Liberia;English;Western Africa;LR;3957990; $0.27 ; $1.66 ;91033.77;118.4919203;10/01/2011
+Rep Congo;French;Middle Africa;CG;4111715; $0.10 ; $0.10 ;205585.75;8.9572622;17/12/2001
+Central African Republic;French;Middle Africa;CF;4349921; $0.71 ; $2.95 ;86998.42;9.6246197;18/11/2001
+Eritrea;Other;Eastern Africa;ER;5741159; $1.61 ; $2.98 ;0;3.660144;17/08/2008
+Sierra Leone;English;Western Africa;SL;5751976; $0.33 ; $1.71 ;33361.4608;14.9311878;22/12/2001
+Libya;Arabic;Northern Africa;LY;6040612; $0.33 ; $1.58 ;845685.68;121.2947348;11/01/2011
+Togo;French;Western Africa;TG;6306014; $0.20 ; $2.35 ;189180.42;5.2462774;29/12/2001
+Burundi;Other;Eastern Africa;BI;9232753; $0.29 ; $0.83 ;92327.53;19.4450469;15/11/2001
+Benin;French;Western Africa;BJ;9509798; $0.77 ; $2.18 ;297656.6774;4.3706132;12/11/2001
+Somalia;Other;Eastern Africa;SO;9636173; $0.21 ; $0.50 ;0;29.0228722;23/12/2001
+South Sudan;Arabic;Northern Africa;SS;9940929; $4.14 ; $4.07 ;0;1.6550152;25/12/2001
+Tunisia;Arabic;Northern Africa;TN;10631830; $0.15 ; $0.69 ;3912513.44;6.5759915;30/12/2001
+Rwanda;Other;Eastern Africa;RW;10836732; $0.80 ; $1.44 ;866938.56;28.9822312;18/12/2001
+Guinea;French;Western Africa;GN;10876033; $0.21 ; $1.47 ;108760.33;3.880322;22/08/2008
+Chad;French;Middle Africa;TD;11720781; $0.67 ; $0.63 ;199253.277;3.7878193;19/11/2001
+Senegal;French;Western Africa;SN;12950564; $0.32 ; $1.15 ;2072090.24;9.263859;20/12/2001
+Zimbabwe;English;Eastern Africa;ZW;13076978; $0.86 ; $0.10 ;1503852.47;2.4339462;02/01/2002
+Zambia;English;Eastern Africa;ZM;13216985; $0.58 ; $1.59 ;1321698.5;26.3970743;01/01/2002
+Mali;French;Western Africa;ML;13985961; $0.45 ; $0.87 ;265733.259;19.220268;14/01/2011
+Malawi;English;Eastern Africa;MW;15013694; $0.37 ; $0.95 ;339309.4844;69.7807033;13/01/2011
+Burkina Faso;French;Western Africa;BF;15540284; $0.65 ; $1.24 ;372966.816;3.2589807;14/11/2001
+Niger;French;Western Africa;NE;15893746; $0.37 ; $1.10 ;131918.0918;82.1148079;15/12/2001
+Ivory Coast;French;Western Africa;CI;18976588; $0.10 ; $1.78 ;398508.348;123.1897041;07/01/2011
+Angola;Portuguese;Middle Africa;AO;19549124; $0.48 ; $1.91 ;1954912.4;1.1556532;11/11/2001
+Cameroon;English;Middle Africa;CM;20624343; $0.59 ; $2.70 ;886846.749;19.522279;16/11/2001
+Madagascar;French;Eastern Africa;MG;21079532; $0.56 ; $0.63 ;358352.044;15.5096464;12/01/2011
+Mozambique;Portuguese;Eastern Africa;MZ;23967265; $0.71 ; $1.02 ;999434.9505;3.6742615;13/12/2001
+Ghana;English;Western Africa;GH;24262901; $1.26 ; $3.03 ;1892506.278;0.2414261;21/08/2008
+Morocco;Arabic;Northern Africa;MA;31642360; $0.23 ; $0.68 ;16454027.2;315.0344653;17/01/2011
+Uganda;English;Eastern Africa;UG;33987213; $0.63 ; $0.79 ;4248401.625;43.7866104;31/12/2001
+Sudan;Arabic;Northern Africa;SD;35652002; $1.19 ; $2.17 ;5953884.334;3.1513453;26/12/2001
+Algeria;Arabic;Northern Africa;DZ;37062820; $0.17 ; $0.44 ;4632852.5;26.158603;10/11/2001
+Kenya;English;Eastern Africa;KE;40909194; $0.54 ; $0.91 ;5727287.16;203.3403238;08/01/2011
+Tanzania;Other;Eastern Africa;TZ;44973330; $0.55 ; $0.80 ;4947066.3;8.19007;28/12/2001
+South Africa;English;Southern Africa;ZA;51452352; $0.68 ; $1.02 ;12348564.48;11.4535768;24/12/2001
+Dem Rep Congo;French;Middle Africa;CD;62191161; $0.74 ; $2.52 ;447776.3592;22.150123;21/11/2001
+Egypt;Arabic;Northern Africa;EG;78075705; $0.13 ; $1.05 ;24531386.51;10.4354908;15/08/2008
+Ethiopia;Amharic;Eastern Africa;ET;87095281; $0.24 ; $1.04 ;653214.6075;241.7002894;18/08/2008
+Nigeria;English;Western Africa;NG;159707780; $0.70 ; $2.89 ;38329867.2;44.3918106;16/12/2001

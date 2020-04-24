@@ -1,0 +1,53 @@
+id	Pays	Pop	PIB	lang	Religion
+1	Nigeria	184264000	568508	English	Islam
+2	Ethiopia	90076000	54798	Amharic	Christianity
+3	Egypt	88523000	291538	Arabic	Islam
+4	South Africa	54957000	352817	English	Christianity
+5	Tanzania	48829000	49115	Kiswahili 	Other
+6	Kenya	44234000	69937	English	Christianity
+7	Algeria	39903000	214063	Arabic	Islam
+8	Sudan	38435000	63815	Arabic	Islam
+9	Uganda	35760000	26312	English 	Christianity
+10	Morocco	33680000	107005	Arabic	Islam
+11	Ghana	27714000	38648	English	Christianity
+12	Mozambique	25728000	16386	Portuguese 	Christianity
+13	Angola	25326000	131401	Portuguese	Christianity
+14	Ivory Coast	23326000	34254	French	Islam
+15	Madagascar	23043000	10593	French	Islam
+16	Cameroon	21918000	32549	English	Christianity
+17	Niger	18880000	8169	French	Islam
+18	Burkina Faso	18450000	12543	French	Islam
+19	Mali	17796000	12074	French	Islam
+20	Malawi	16307000	4258	English	Christianity
+21	Zambia	15474000	27066	English	Christianity
+22	Senegal	14150000	15579	French	Islam
+23	Chad	13675000	13922	French	Islam
+24	Zimbabwe	13503000	13663	English	Christianity
+25	South Sudan	12519000	13,07	Arabic	Christianity
+26	Rwanda	11324000	7,89	Rwanda 	Christianity
+27	Tunisia	11118000	46995	Arabic 	Islam
+28	Somalia	10972000	--	Somali	Islam
+29	Guinea	10935000	6624	French 	Islam
+30	Benin	10782000	8747	French	Christianity
+31	Burundi	9824000	3094	Kirundi	Christianity
+32	Togo	7065000	4518	French 	Christianity
+33	Eritrea	6895000	3858	Tigrinya 	Christianity
+34	Sierra Leone	6513000	4892	English 	Islam
+35	Libya	6278000	41119	Arabic	Islam
+36	Central African Republic	4900000	1783	French	Christianity
+37	Liberia	4046000	2027	English	Christianity
+38	Mauritania	3632000	5061	Arabic	Islam
+39	Namibia	2281000	13,43	English	Christianity
+40	Botswana	2176000	15813	Setswana 	Christianity
+41	Gambia	2022000	0,807	English	Islam
+42	Equatorial Guinea	1996000	14308	Spanish	Christianity
+43	Lesotho	1908000	2088	Sesotho 	Christianity
+44	Gabon	1873000	17228	French	Christianity
+45	Guinea-Bissau	1788000	1022	Portuguese	Islam
+46	Mauritius	1263000	12616	English	Christianity
+47	Swaziland	1119000	3,4	English 	Christianity
+48	Djibouti	961000	1582	French	Islam
+49	Comoros	783000	0,648	Arabic	Islam
+50	Cape Verde	525000	1871	Portuguese	Christianity
+51	São Tomé and Príncipe	194000	0,335	Portuguese	Christianity
+52	Seychelles	97000	1406	English	Christianity

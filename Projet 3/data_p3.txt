@@ -1,0 +1,53 @@
+id	Pays	Pop	PIB	lang	Religion
+1	Nigeria	184264000.00	568508.00	English	Islam
+2	Ethiopia	90076000.00	54798.00	Arabic	Christianity
+3	Egypt	88523000.00	291538.00	Arabic	Islam
+4	South Africa	54957000.00	352817.00	English	Christianity
+5	Tanzania	48829000.00	49115.00	English	Other
+6	Kenya	44234000.00	69937.00	English	Christianity
+7	Algeria	39903000.00	214063.00	Arabic	Islam
+8	Sudan	38435000.00	63815.00	Arabic	Islam
+9	Uganda	35760000.00	26312.00	English 	Christianity
+10	Morocco	33680000.00	107005.00	Arabic	Islam
+11	Ghana	27714000.00	38648.00	English	Christianity
+12	Mozambique	25728000.00	16386.00	Portuguese 	Christianity
+13	Angola	25326000.00	131401.00	Portuguese	Christianity
+14	Ivory Coast	23326000.00	34254.00	French	Islam
+15	Madagascar	23043000.00	10593.00	French	Islam
+16	Cameroon	21918000.00	32549.00	English	Christianity
+17	Niger	18880000.00	8169.00	French	Islam
+18	Burkina Faso	18450000.00	12543.00	French	Islam
+19	Mali	17796000.00	12074.00	French	Islam
+20	Malawi	16307000.00	4258.00	English	Christianity
+21	Zambia	15474000.00	27066.00	English	Christianity
+22	Senegal	14150000.00	15579.00	French	Islam
+23	Chad	13675000.00	13922.00	French	Islam
+24	Zimbabwe	13503000.00	13663.00	English	Christianity
+25	South Sudan	12519000.00	13,07	Arabic	Christianity
+26	Rwanda	11324000.00	7,89	French	Christianity
+27	Tunisia	11118000.00	46995.00	Arabic 	Islam
+28	Somalia	10972000.00	--	Arabic	Islam
+29	Guinea	10935000.00	6624.00	French 	Islam
+30	Benin	10782000.00	8747.00	French	Christianity
+31	Burundi	9824000.00	3094.00	French	Christianity
+32	Togo	7065000.00	4518.00	French 	Christianity
+33	Eritrea	6895000.00	3858.00	French	Christianity
+34	Sierra Leone	6513000.00	4892.00	English 	Islam
+35	Libya	6278000.00	41119.00	Arabic	Islam
+36	Central African Republic	4900000.00	1783.00	French	Christianity
+37	Liberia	4046000.00	2027.00	English	Christianity
+38	Mauritania	3632000.00	5061.00	Arabic	Islam
+39	Namibia	2281000.00	13,43	English	Christianity
+40	Botswana	2176000.00	15813.00	French	Christianity
+41	Gambia	2022000.00	0,807	English	Islam
+42	Equatorial Guinea	1996000.00	14308.00	Spanish	Christianity
+43	Lesotho	1908000.00	2088.00	French	Christianity
+44	Gabon	1873000.00	17228.00	French	Christianity
+45	Guinea-Bissau	1788000.00	1022.00	Portuguese	Islam
+46	Mauritius	1263000.00	12616.00	English	Christianity
+47	Swaziland	1119000.00	3,4	English 	Christianity
+48	Djibouti	961000.00	1582.00	French	Islam
+49	Comoros	783000.00	0,648	Arabic	Islam
+50	Cape Verde	525000.00	1871.00	Portuguese	Christianity
+51	São Tomé and Príncipe	194000.00	0,335	Portuguese	Christianity
+52	Seychelles	97000.00	1406.00	English	Christianity
